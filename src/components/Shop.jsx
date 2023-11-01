@@ -1,5 +1,5 @@
 import { DUMMY_PRODUCTS } from "../dummy-products.js"
-import Product from "./Product.jsx"
+import Product from "./Product"
 
 export default function Shop() {
 	return (
